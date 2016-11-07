@@ -10,6 +10,10 @@ This is my notes recording those useful websites in case I forgot.
 
 - [http://devdocs.io/](http://devdocs.io/)
 
+## FE Animation 
+
+- [http://anime-js.com/](http://anime-js.com/)
+
 
 ## Learning
 
