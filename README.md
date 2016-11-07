@@ -1,4 +1,4 @@
-# awesome-site
+# awesome-sites
 
 This is my notes recording those useful websites in case I forgot.
 
