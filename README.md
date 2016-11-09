@@ -18,7 +18,7 @@ This is my notes recording those useful websites in case I forgot.
 
 - [anime-js](http://anime-js.com/)
 
-_ [the 12 principles](http://the12principles.tumblr.com/)
+- [the 12 principles](http://the12principles.tumblr.com/)
 
 - [smooth-css-animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.bcmxxqmi1)
 
