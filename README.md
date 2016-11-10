@@ -29,6 +29,8 @@ This is my notes recording those useful websites in case I forgot.
 
 ## ICONS
 
+- [iconfinder](https://www.iconfinder.com/)
+
 - [worldvectorlogo](https://worldvectorlogo.com)
 
 - [cssicon](http://cssicon.space/#/)
