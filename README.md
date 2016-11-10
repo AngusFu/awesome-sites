@@ -29,6 +29,8 @@ This is my notes recording those useful websites in case I forgot.
 
 ## ICONS
 
+- [worldvectorlogo](https://worldvectorlogo.com)
+
 - [cssicon](http://cssicon.space/#/)
 
 - [pure-css-gui-icons](http://nicolasgallagher.com/pure-css-gui-icons/)
