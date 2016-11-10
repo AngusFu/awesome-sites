@@ -31,6 +31,8 @@ This is my notes recording those useful websites in case I forgot.
 
 - [cssicon](http://cssicon.space/#/)
 
+- [pure-css-gui-icons](http://nicolasgallagher.com/pure-css-gui-icons/)
+
 - [flaticon](http://www.flaticon.com/)
 
 - [svgicons](http://svgicons.sparkk.fr/)
