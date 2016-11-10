@@ -26,6 +26,21 @@ This is my notes recording those useful websites in case I forgot.
 
 - [smooth-css-animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.bcmxxqmi1)
 
+
+## ICONS
+
+- [cssicon](http://cssicon.space/#/)
+
+- [flaticon](http://www.flaticon.com/)
+
+- [svgicons](http://svgicons.sparkk.fr/)
+
+- [smarticons](https://smarticons.co/)
+
+- [iconfont](http://www.iconfont.cn/)
+
+- [icomoon](https://icomoon.io/app/)
+
 ## Learning
 
 - [leetcode](https://leetcode.com)
