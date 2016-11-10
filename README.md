@@ -37,6 +37,8 @@ This is my notes recording those useful websites in case I forgot.
 
 - [smarticons](https://smarticons.co/)
 
+- [linearicons](https://linearicons.com/free)
+
 - [iconfont](http://www.iconfont.cn/)
 
 - [icomoon](https://icomoon.io/app/)
