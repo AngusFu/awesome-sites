@@ -49,6 +49,12 @@ This is my notes recording those useful websites in case I forgot.
 
 - [icomoon](https://icomoon.io/app/)
 
+
+## Tools
+
+- [SVG 压缩](https://jakearchibald.github.io/svgomg/)
+
+
 ## Learning
 
 - [leetcode](https://leetcode.com)
