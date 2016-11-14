@@ -28,6 +28,13 @@ This is my notes recording those useful websites in case I forgot.
 - [smooth-css-animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.bcmxxqmi1)
 
 
+## Library
+
+- [WebGL:whsjs](https://whsjs.io)
+
+- [massive parallel computations: turbo.js](https://turbo.github.io/)
+
+
 ## ICONS
 
 - [iconfinder](https://www.iconfinder.com/)
