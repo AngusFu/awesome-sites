@@ -62,6 +62,7 @@ This is my notes recording those useful websites in case I forgot.
 
 - [SVG 压缩](https://jakearchibald.github.io/svgomg/)
 
+- [半透明背景 base64 生成](http://png-pixel.com/)
 
 ## Learning
 
