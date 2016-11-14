@@ -21,6 +21,8 @@ This is my notes recording those useful websites in case I forgot.
 
 ## FE Animation 
 
+- [text-spinners](http://tawian.io/text-spinners/)
+
 - [anime-js](http://anime-js.com/)
 
 - [the 12 principles](http://the12principles.tumblr.com/)
