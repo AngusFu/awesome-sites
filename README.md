@@ -12,6 +12,10 @@ This is my notes recording those useful websites in case I forgot.
 
 - [codyhouse](https://codyhouse.co/)
 
+- [nthmaster: CSS nth 选择器](http://nthmaster.com/)
+
+- [Git Doc zh-CN](https://git-scm.com/book/zh/v2)
+
 ## GIF 图
 
 - [动图搜索引擎 giphy.com ](http://giphy.com/)
