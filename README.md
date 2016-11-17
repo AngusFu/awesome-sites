@@ -24,6 +24,10 @@ This is my notes recording those useful websites in case I forgot.
 
 - [前端各种文档 devdocs](http://devdocs.io/)
 
+- [gitmoji](https://gitmoji.carloscuesta.me/)
+
+- [程序员提交代码的 emoji 指南](https://www.h5jun.com/post/gitmoji.html)
+
 
 ## Code Pen
 
