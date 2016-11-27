@@ -4,6 +4,8 @@ This is my notes recording those useful websites in case I forgot.
 
 ## 站点
 
+- [CSS Triggers](https://csstriggers.com/)
+
 - [开发者公众号文章大全](http://www.10tiao.com/)
 
 - [中文电子书](http://bestcbooks.com/)
