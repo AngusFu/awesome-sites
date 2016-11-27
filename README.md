@@ -4,7 +4,9 @@ This is my notes recording those useful websites in case I forgot.
 
 ## 站点
 
-- [CSS Triggers](https://csstriggers.com/)
+- [CSS Reference](http://cssreference.io/) ：CSS Properties Live Demo
+
+- [CSS Triggers](https://csstriggers.com/)：What will a certain CSS property cause: Reflow,Layout, etc...
 
 - [开发者公众号文章大全](http://www.10tiao.com/)
 
@@ -14,7 +16,7 @@ This is my notes recording those useful websites in case I forgot.
 
 - [codyhouse](https://codyhouse.co/)
 
-- [nthmaster: CSS nth 选择器](http://nthmaster.com/)
+- [nth-master: CSS nth 选择器](http://nthmaster.com/)
 
 - [Git Doc zh-CN](https://git-scm.com/book/zh/v2)
 
