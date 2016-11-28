@@ -8,7 +8,9 @@ This is my notes recording those useful websites in case I forgot.
 
 - [CSS Triggers](https://csstriggers.com/)：What will a certain CSS property cause: Reflow,Layout, etc...
 
-- [hakim.se](http://hakim.se/) 
+- [hakim.se](http://hakim.se/): Ideas and works
+
+- [exploringjs](http://exploringjs.com/): Books on JavaScript
 
 - [开发者公众号文章大全](http://www.10tiao.com/)
 
