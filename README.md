@@ -22,6 +22,8 @@ This is my notes recording those useful websites in case I forgot.
 
 - [nth-master: CSS nth 选择器](http://nthmaster.com/)
 
+- [CSS 选择器权重计算器](http://specificity.keegan.st/)
+
 - [Git Doc zh-CN](https://git-scm.com/book/zh/v2)
 
 ## GIF 图
