@@ -8,6 +8,8 @@ This is my notes recording those useful websites in case I forgot.
 
 - [CSS Triggers](https://csstriggers.com/)：What will a certain CSS property cause: Reflow,Layout, etc...
 
+- [Unicode Table](https://unicode-table.com/cn/)
+
 - [hakim.se](http://hakim.se/): Ideas and works
 
 - [exploringjs](http://exploringjs.com/): Books on JavaScript
