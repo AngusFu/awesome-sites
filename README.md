@@ -10,6 +10,10 @@ This is my notes recording those useful websites in case I forgot.
 
 - [Unicode Table](https://unicode-table.com/cn/)
 
+- [emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/)
+
+- [emoji table](http://computerism.ru/emoji-smiles.htm)
+
 - [hakim.se](http://hakim.se/): Ideas and works
 
 - [exploringjs](http://exploringjs.com/): Books on JavaScript
