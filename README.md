@@ -4,6 +4,8 @@ This is my notes recording those useful websites in case I forgot.
 
 ## 站点
 
+- [Icons for everything](https://thenounproject.com/)
+
 - [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
 
 - [CSS Reference](http://cssreference.io/) ：CSS Properties Live Demo
