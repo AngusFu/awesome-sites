@@ -4,6 +4,7 @@ This is my notes recording those useful websites in case I forgot.
 
 ## 站点
 
+- [keepvid.com/](http://keepvid.com/)：video download
 - [Icons for everything](https://thenounproject.com/)
 
 - [沉浸式学 Git](http://igit.linuxtoy.org/index.html)
